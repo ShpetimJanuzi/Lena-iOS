@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  i am Rich
+//  Albulena
 //
 //  Created by Shpetim Januzi on 29.10.22.
 //
